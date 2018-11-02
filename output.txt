@@ -1,0 +1,24 @@
+"C:\Program Files\Java\jdk-10.0.2\bin\java.exe" "-javaagent:C:\Program Files\JetBrains\IntelliJ IDEA Community Edition 2018.2.2\bin\IntelliJ IDEA Community Edition 2018.2.2\lib\idea_rt.jar=51466:C:\Program Files\JetBrains\IntelliJ IDEA Community Edition 2018.2.2\bin\IntelliJ IDEA Community Edition 2018.2.2\bin" -Dfile.encoding=UTF-8 -classpath C:\Users\Alan\IdeaProjects\sprint'd\out\production\sprint'd Main
+ 8 engineers working at 30 hrs/wk for 3 weeks are at 220% capacity.
+ 9 engineers working at 30 hrs/wk for 3 weeks are at 196% capacity.
+ 10 engineers working at 30 hrs/wk for 3 weeks are at 176% capacity.
+ 11 engineers working at 30 hrs/wk for 3 weeks are at 160% capacity.
+ 8 engineers working at 30 hrs/wk for 4 weeks are at 165% capacity.
+ 8 engineers working at 30 hrs/wk for 5 weeks are at 132% capacity.
+ 8 engineers working at 30 hrs/wk for 6 weeks are at 110% capacity.
+ 8 engineers working at 35 hrs/wk for 3 weeks are at 189% capacity.
+ 9 engineers working at 35 hrs/wk for 3 weeks are at 168% capacity.
+ 10 engineers working at 35 hrs/wk for 3 weeks are at 151% capacity.
+ 11 engineers working at 35 hrs/wk for 3 weeks are at 137% capacity.
+ 8 engineers working at 35 hrs/wk for 4 weeks are at 141% capacity.
+ 8 engineers working at 35 hrs/wk for 5 weeks are at 113% capacity.
+ 8 engineers working at 35 hrs/wk for 6 weeks are at 94% capacity.
+ 8 engineers working at 40 hrs/wk for 3 weeks are at 165% capacity.
+ 9 engineers working at 40 hrs/wk for 3 weeks are at 147% capacity.
+ 10 engineers working at 40 hrs/wk for 3 weeks are at 132% capacity.
+ 11 engineers working at 40 hrs/wk for 3 weeks are at 120% capacity.
+ 8 engineers working at 40 hrs/wk for 4 weeks are at 124% capacity.
+ 8 engineers working at 40 hrs/wk for 5 weeks are at 99% capacity.
+ 8 engineers working at 40 hrs/wk for 6 weeks are at 82% capacity.
+
+Process finished with exit code 0
